@@ -1,2 +1,2 @@
-test de
-contribution sur GtHb
+test de contribution sur GitHub
+GitHub est un service web d'hébergement et de gestion de développement de logiciels
